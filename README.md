@@ -1,2 +1,2 @@
-# Algoritimos-de-Ordena-o
+# Algoritiomos de Ordenacao conhecidos
 Alguns algorítimos de ordenação conhecidos.
