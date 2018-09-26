@@ -15,6 +15,10 @@ in the world of JAVA progamming.
 
 
 -> BUBBLESORT
+
 -> SELECSORT
+
 -> INSERTIONSORT
+
 -> SIMUTANIUSSELECTIONSORT
+
