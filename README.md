@@ -13,3 +13,8 @@ these are some algorithms most popular we use
 in the world of JAVA progamming.
 ---------------------------------------------
 
+
+-> BUBBLESORT
+-> SELECSORT
+-> INSERTIONSORT
+-> SIMUTANIUSSELECTIONSORT
