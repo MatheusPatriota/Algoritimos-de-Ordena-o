@@ -10,13 +10,13 @@ mais utilizados. (Java)
 EN-US
 ---------------------------------------------
 these are some algorithms most popular we use
-in the world of JAVA progamming.
+in the world of JAVA programming.
 ---------------------------------------------
 
 
 -> BUBBLESORT
 
--> SELECSORT
+-> SELECTIONSORT
 
 -> INSERTIONSORT
 
