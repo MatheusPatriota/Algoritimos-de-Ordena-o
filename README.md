@@ -1,24 +1,24 @@
 # Algoritiomos de Ordenacao conhecidos
-# Some Popular Algorithms
+### Some Popular Algorithms
 
-PT-BR
+#### PT-BR
 ---------------------------------------------
 Esses são alguns dos algoritimos de ordenação
 mais utilizados. (Java)
 ---------------------------------------------
 
-EN-US
+#### EN-US
 ---------------------------------------------
-these are some algorithms most popular we use
-in the world of JAVA programming.
+These are some algorithms we use
+in the world of programming. (JAVA)
 ---------------------------------------------
 
 
--> BUBBLESORT
+###### BUBBLESORT
 
--> SELECTIONSORT
+###### SELECTIONSORT
 
--> INSERTIONSORT
+###### INSERTIONSORT
 
--> SIMUTANIUSSELECTIONSORT
+###### SIMUTANIUSSELECTIONSORT
 
